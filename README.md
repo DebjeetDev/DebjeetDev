@@ -1,145 +1,124 @@
-<div align="center">👋 Hey, I'm Debjeet
+<div align="center">
 
-"Full Stack Developer" · "Creator" · "Lifelong Learner"
+  <!-- DYNAMIC WAVING HEADER BANNER (Valid XML & High-Res) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=200&section=header&text=Debjeet%20Dhar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Builder&descAlignY=62&descAlign=50" width="100%" alt="Debjeet Dhar Banner" />
 
-<a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+JavaScript;Turning+ideas+into+real+products;Always+learning.+Always+building." alt="Typing animation" />
-</a><br />Building the web, one commit at a time.
+  <!-- DYNAMIC TYPING SVG -->
+  <a href="https://github.com/DebjeetDev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+Full+Stack+Developer;Architecting+Scalable+Web+Apps+%26+Cloud+Systems;Modern+JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Next.js;Building+Autonomous+AI+Assistants+%26+Intelligent+Agents;Engineering+with+Precision+%C2%B7+Clean+Code+Standards" alt="Typing Animation" />
+  </a>
 
-<p>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p></div>---
+  <br />
 
-🧑‍💻 About Me
+  <!-- BADGES & SOCIAL LINKS -->
+  <p align="center">
+    <a href="https://github.com/DebjeetDev"><img src="https://img.shields.io/badge/GitHub-DebjeetDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/debjeet-dhar/"><img src="https://img.shields.io/badge/LinkedIn-Debjeet%20Dhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:debjeetdhar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-debjeetdhar.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=DebjeetDev&style=for-the-badge&color=0284c7" alt="Profile Views" />
+  </p>
 
+</div>
+
+---
+
+### 👨‍💻 Engineering Identity
+
+```javascript
 const debjeet = {
-  role: "Full Stack Developer",
-  focus: [
-    "Modern Web Development",
-    "UI/UX",
-    "Scalable Applications",
-    "AI-powered Products"
-  ],
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "React",
-    "Next.js",
-    "Backend Development"
-  ],
-  mindset: "Build → Learn → Improve → Repeat"
+  pronouns: "he/him",
+  role: "Software Engineer & Full Stack Developer",
+  location: "Kolkata, India",
+  coreStack: ["JavaScript (ES6+)", "TypeScript", "React", "Next.js", "Node.js"],
+  engineeringStandards: {
+    cleanCode: "SonarLint & ESLint Verified",
+    versionControl: "Semantic Git & GitHub Actions CI/CD",
+    mindset: "No shallow tutorials. Only deep, battle-tested engineering."
+  },
+  currentMilestone: "Mastering V8 Runtime Internals, Concurrency & Microservices"
 };
+```
 
-I enjoy transforming ideas into clean, useful and modern digital products.
-
-My focus is on creating web applications with thoughtful UI, solid architecture and a great user experience.
-
-«Good software isn't only about writing code — it's about solving problems.»
+> *"Good software isn't only about writing code — it's about solving real-world problems with robust, scalable architecture."*
 
 ---
 
-⚡ Tech Stack
+## 🛠️ Technical Stack & Arsenal
 
-Frontend
+### 🌐 Frontend Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
-</p>Backend & Database
+### ⚙️ Backend & Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Technologies" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql" alt="Backend technologies" />
-</p>Tools
+### 🔐 Authentication & Security
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/Bcrypt-grey?style=for-the-badge" alt="Bcrypt" />
+  <img src="https://img.shields.io/badge/PassportJS-34E27A?style=for-the-badge&logo=passport" alt="PassportJS" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" alt="Developer tools" />
-</p>---
-
-🚀 What I'm Working On
-
-✦ Social X
-
-«An AI-integrated social media application focused on a modern, intuitive experience.»
-
-Focus areas
-
-- 🎨 UI/UX
-- 🔐 Authentication
-- 📝 Posts & feeds
-- 🤖 AI features
-- 👤 Profiles
-- 📱 Responsive design
-- ⚡ Modern React / Next.js architecture
+### 🧰 DevOps & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" alt="Developer Tools" />
+</p>
 
 ---
 
-🎯 Current Focus
+## 🚀 Featured Projects
 
-Area| Status
-Advanced JavaScript| 🟢 Learning
-React + Next.js| 🟢 Learning & Building
-Full Stack Development| 🟡 Growing
-System Design| 🔵 Exploring
-Real-world Projects| 🟢 Building
+<!-- 
+  [PROJECT REPOSITORIES PLACEHOLDER]
+  Add your live repositories here as each project is completed and deployed.
+  Format:
+  ### 🤖 Project Name
+  Brief engineering description and architecture summary.
+  🔗 Link to repository
+-->
 
----
-
-📊 GitHub Analytics
-
-<div align="center"><a href="https://github.com/">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</a><a href="https://github.com/">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top programming languages" />
-</a></div>---
-
-📈 Contribution Activity
-
-<div align="center"><a href="https://github.com/">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</a></div>---
-
-🏆 GitHub Achievements
-
-<div align="center"><a href="https://github.com/">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</a></div>---
-
-🌱 Beyond Code
-
-🎧 Music
-💡 Technology
-🎨 Design
-📚 Learning
-🏃 Personal Growth
-🚀 Building Ideas
-
-I believe consistent small improvements compound into something much bigger.
+<div align="center">
+  <p><i>⚡ Production projects currently in active engineering. Repositories will be linked here upon live deployment.</i></p>
+</div>
 
 ---
 
-💭 Developer Philosophy
+## 📊 GitHub Analytics & Engineering Velocity
 
-<div align="center">"Build something you're proud to put your name on."
+<p align="center">
+  <a href="https://github.com/DebjeetDev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DebjeetDev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Debjeet's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DebjeetDev">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DebjeetDev&theme=tokyonight&hide_border=true" alt="Debjeet's Streak Stats" />
+  </a>
+</p>
 
-"Code" • "Create" • "Learn" • "Grow"
+<p align="center">
+  <a href="https://github.com/DebjeetDev">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebjeetDev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 
-</div>---
+---
 
-🤝 Let's Connect
+## 🌐 Connect With Me
 
-<div align="center">I'm always interested in building, learning and connecting with other developers.
+<p align="center">
+  <a href="https://www.linkedin.com/in/debjeet-dhar/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/DebjeetDhar"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/DebjeetDhar"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/DebjeetDev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
 
-<br /><a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a><br /><br />
+---
 
-Thanks for visiting! ⭐
-
-</div>---
-
-<div align="center">BUILD  →  LEARN  →  GROW  →  REPEAT
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=36BCF7" alt="Profile views" /></div>
+<div align="center">
+  <sub><b>⭐️ Building scalable software with relentless dedication · Kolkata, India 🇮🇳</b></sub>
+</div>
